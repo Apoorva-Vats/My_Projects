@@ -1,12 +1,16 @@
-### Data Analyst/Business Analyst
+### Data Analyst/Business Analyst  
+*Crafting data-driven smarter solutions is what fascinates me1*
 
 ### My Education 
 Bachelors in Computer Applications  
 MBA in IT & Business Analytics  
 
+### My Technical Skills Include
+Power BI| Tableau| SQL| Python MS Excel| Google Sheets| Looker Studio....willing to add more 
+
 ## MY PROJECTS
 
-### BANK LOAN PROJECT
+### Bank Loan Report
 *Tools Used SSMS|Tableau*  
 A leading financial institution seeks to enhance its understanding of lending activities and improve data-driven decision-making by developing a comprehensive Bank Loan Report. The project aims to provide critical insights into key loan-related metrics, performance trends, and borrower behavior [View](https://github.com/Apoorva-Vats/Bank-Loan-Report) .
 
