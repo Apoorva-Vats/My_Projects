@@ -1,5 +1,5 @@
 ### Data Analyst/Business Analyst  
-*Crafting data-driven smarter solutions is what fascinates me1*
+*Crafting data-driven smarter solutions is what fascinates me!*
 
 ### My Education 
 Bachelors in Computer Applications  
