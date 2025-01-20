@@ -8,7 +8,7 @@ MBA in IT & Business Analytics
 
 ## BANK LOAN PROJECT
 *Tools Used SSMS|Tableau*  
-A leading financial institution seeks to enhance its understanding of lending activities and improve data-driven decision-making by developing a comprehensive Bank Loan Report. The project aims to provide critical insights into key loan-related metrics, performance trends, and borrower behavior. Bank Loan Report
+A leading financial institution seeks to enhance its understanding of lending activities and improve data-driven decision-making by developing a comprehensive Bank Loan Report. The project aims to provide critical insights into key loan-related metrics, performance trends, and borrower behavior. 
 
 ## Sales Overview Dashboard
 *Tools Used Power BI| MS Excel*  
